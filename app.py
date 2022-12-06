@@ -4,7 +4,7 @@ from helper import functions
 # Mayank Parihar
 
 # App Title
-st.title("Pneumodetector APP")
+st.title("Pneumodetector App")
 
 # Introduction text
 st.markdown(unsafe_allow_html=True, body="<p>Welcome to Pneumodetector APP.</p>")
