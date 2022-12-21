@@ -5,8 +5,6 @@ from keras import layers, models, optimizers  # modeling
 import json
 from keras.models import load_model
 
-import opencv-python
-
 import cv2
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
